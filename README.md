@@ -1,4 +1,4 @@
-# spring-configuration-service
+# Spring Configuration Service
 
 **URL:** For more details visit [Centralized Configuration](https://spring.io/guides/gs/centralized-configuration/) at spring.oi
 
